@@ -47,3 +47,4 @@ Desktop.ini
 *.log
 *.bak
 *.old
+.vscode/
