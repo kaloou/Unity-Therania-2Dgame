@@ -410,9 +410,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8600b771834e440ae8ff4627ae90dafc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioMixer: {fileID: 24100000, guid: 127f4e913ad994da794ced952d277f06, type: 2}
+  audioMixer: {fileID: 24100000, guid: c9a2766b40e074b27bd92f6493f1fd83, type: 2}
   resolutionDropdown: {fileID: 294182168}
-  toggleFullScreen: {fileID: 0}
+  toggleFullScreen: {fileID: 389351844}
 --- !u!114 &261727512
 MonoBehaviour:
   m_ObjectHideFlags: 0
