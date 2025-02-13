@@ -1,0 +1,49 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# === macOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+Desktop.ini
+
+# === Linux ===
+*.swp
+*.swo
+
+# === Unity Collab ===
+.Collab/
+
+# === Visual Studio / Rider ===
+.vs/
+.idea/
+*.suo
+*.user
+*.csproj
+*.pidb
+*.sln*
+*.unityproj
+*.cache
+*.pdb
+
+# === Unity auto-générés ===
+*.apk
+*.unitypackage
+
+# === JetBrains Rider ===
+/.idea/
+/*.sln.iml
+
+# === Autres fichiers à ignorer ===
+/Logs/
+*.log
+*.bak
+*.old
