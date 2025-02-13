@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shadedLight34_0: -4108137697526449773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mage-3-87x110_0: -420650004895847109
+      mage-3-87x110_1: 345862463633625512
+      mage-3-87x110_2: -1257814313778846970
+      mage-3-87x110_3: -7341399340812279089
+      mage-3-87x110_4: 5941199593794366499
+      mage-3-87x110_5: 3617789647339345380
+      mage-3-87x110_6: -4116716709983548963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

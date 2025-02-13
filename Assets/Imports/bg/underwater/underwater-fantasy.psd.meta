@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      underwater-fantasy_0: -4777469171173453159
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

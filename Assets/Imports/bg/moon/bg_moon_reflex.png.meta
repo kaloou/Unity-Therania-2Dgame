@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_moon_reflex_0: -3130878246434248203
+      bg_moon_reflex_1: -7101543960359032090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

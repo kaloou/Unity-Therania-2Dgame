@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flameball-32x32_0: -7852470446585872443
+      flameball-32x32_1: 8454980816318888078
+      flameball-32x32_2: 7272843761326123155
+      flameball-32x32_3: -6216025182875540051
+      flameball-32x32_4: 555893004710906980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

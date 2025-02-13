@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone_Tiles_08012015_320x192__0: -32621492797910726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

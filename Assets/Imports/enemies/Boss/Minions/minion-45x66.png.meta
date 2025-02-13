@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      minion-45x66_0: 4319529908765746008
+      minion-45x66_1: 797345242146043882
+      minion-45x66_2: 8740641948642657616
+      minion-45x66_3: -5794553014565866224
+      minion-45x66_4: -9039323336879397015
+      minion-45x66_5: -1526631679060400715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

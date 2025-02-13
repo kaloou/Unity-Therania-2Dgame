@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      StoneWallChainsawRight_0: 6785830755729994479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

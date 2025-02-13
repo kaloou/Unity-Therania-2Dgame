@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oppcastle-tiles_0: -4149312323283898111
+      oppcastle-tiles_1: 6798808365525353330
+      oppcastle-tiles_10: 2540225159826000391
+      oppcastle-tiles_2: -6908922696793897315
+      oppcastle-tiles_3: -8881486107735356092
+      oppcastle-tiles_4: -1633902423365620505
+      oppcastle-tiles_5: -1751204651056385843
+      oppcastle-tiles_6: 1081106323057248277
+      oppcastle-tiles_7: 5828482272761107985
+      oppcastle-tiles_8: -7770434908027342747
+      oppcastle-tiles_9: -9157907895065876221
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

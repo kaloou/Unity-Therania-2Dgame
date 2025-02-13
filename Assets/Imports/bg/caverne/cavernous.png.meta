@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cavernous_0: -4875468794968719396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

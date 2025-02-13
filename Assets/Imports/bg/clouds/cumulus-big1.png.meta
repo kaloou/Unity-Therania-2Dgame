@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cumulus-big1_0: 7478346561871500994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

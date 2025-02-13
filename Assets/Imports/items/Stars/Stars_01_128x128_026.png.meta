@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stars_01_128x128_026_0: 3577512674373664897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

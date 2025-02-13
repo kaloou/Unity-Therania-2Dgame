@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mage-bullet-13x13_0: 495741299776348015
+      mage-bullet-13x13_1: 6760781511825991110
+      mage-bullet-13x13_2: -5087824085510004418
+      mage-bullet-13x13_3: 7678839686724372523
+      mage-bullet-13x13_4: 139679154911506167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lpc-doors-animated-2_0: 4872722366111904963
+      lpc-doors-animated-2_1: -1153616075790168450
+      lpc-doors-animated-2_2: -6471039135142562024
+      lpc-doors-animated-2_3: 6304354709792678407
+      lpc-doors-animated-2_4: -2049307495599859274
+      lpc-doors-animated-2_5: -7142949133980110650
+      lpc-doors-animated-2_6: 6588925852189118497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

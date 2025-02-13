@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shadedLight08_0: 6232138988690977190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

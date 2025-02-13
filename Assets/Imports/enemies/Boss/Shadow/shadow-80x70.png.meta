@@ -559,7 +559,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shadow-80x70_0: 2113129047320392830
+      shadow-80x70_1: 7784688571056232421
+      shadow-80x70_10: 7591706519391616196
+      shadow-80x70_11: -8767381045085924509
+      shadow-80x70_12: 8502471953630340004
+      shadow-80x70_13: 6477732387266009837
+      shadow-80x70_14: 8382954976900588451
+      shadow-80x70_15: 8258556434837756913
+      shadow-80x70_16: -166373988714508268
+      shadow-80x70_17: -3713369285111193794
+      shadow-80x70_2: -6316987529221662422
+      shadow-80x70_3: -7920042594072731817
+      shadow-80x70_4: -4078285880301104050
+      shadow-80x70_5: 4980369244389432317
+      shadow-80x70_6: -8913170882345855180
+      shadow-80x70_7: -5360920780342109053
+      shadow-80x70_8: 681362087578751015
+      shadow-80x70_9: -2056269363641920389
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

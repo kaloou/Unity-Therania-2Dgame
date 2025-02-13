@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      speech_bubble_large_spritesheet_0: 2874235213576446943
+      speech_bubble_large_spritesheet_1: 9205039534927720463
+      speech_bubble_large_spritesheet_2: -4877969955848406883
+      speech_bubble_large_spritesheet_3: 3194420659716626340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

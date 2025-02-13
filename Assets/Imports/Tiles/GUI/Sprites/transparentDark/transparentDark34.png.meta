@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      transparentDark34_0: 4064570226562084066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

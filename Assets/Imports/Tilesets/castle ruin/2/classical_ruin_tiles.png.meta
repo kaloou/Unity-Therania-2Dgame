@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      classical_ruin_tiles_0: -5218025329501509832
+      classical_ruin_tiles_1: -4395563163093696876
+      classical_ruin_tiles_10: 5456013885081945245
+      classical_ruin_tiles_11: 783247484183314617
+      classical_ruin_tiles_12: 6637776737460886069
+      classical_ruin_tiles_13: 8922640923096338788
+      classical_ruin_tiles_2: -6309211548303053606
+      classical_ruin_tiles_3: 2035013331554924335
+      classical_ruin_tiles_4: -1766504496743243750
+      classical_ruin_tiles_5: 3308611532931511978
+      classical_ruin_tiles_6: 2061886845440652866
+      classical_ruin_tiles_7: -6001948134631151695
+      classical_ruin_tiles_8: -6530467319753934037
+      classical_ruin_tiles_9: 3879734667750571919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

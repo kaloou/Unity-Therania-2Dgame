@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animatedcastledoors_0: -4974203285345366419
+      animatedcastledoors_1: -2418222660855251447
+      animatedcastledoors_2: -6492731337352432266
+      animatedcastledoors_3: -7115451588128110139
+      animatedcastledoors_4: -863519672811402105
+      animatedcastledoors_5: -6336934705273174902
+      animatedcastledoors_6: 4442171997788355834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

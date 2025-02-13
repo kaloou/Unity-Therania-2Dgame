@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      castleinthedark_0: -2293125964004980874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

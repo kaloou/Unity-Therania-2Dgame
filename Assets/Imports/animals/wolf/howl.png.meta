@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      howl_0: 8915095000578986395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

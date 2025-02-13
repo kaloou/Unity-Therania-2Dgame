@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blood explosion_0: -5723373056739486786
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
