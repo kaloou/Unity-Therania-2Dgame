@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: 06585f710ed454094807d78923a68284
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3280606871099401650
+    second: bloodexplosion-ezgif.com-optipng_0
+  - first:
+      213: -2661290960574398591
+    second: bloodexplosion-ezgif.com-optipng_1
+  - first:
+      213: 1751641718090529818
+    second: bloodexplosion-ezgif.com-optipng_2
+  - first:
+      213: 1545219975675547711
+    second: bloodexplosion-ezgif.com-optipng_3
+  - first:
+      213: -1579721543553125647
+    second: bloodexplosion-ezgif.com-optipng_4
+  - first:
+      213: -3573470818587559739
+    second: bloodexplosion-ezgif.com-optipng_5
+  - first:
+      213: 2915187718566457848
+    second: bloodexplosion-ezgif.com-optipng_6
+  - first:
+      213: 8071617881311614565
+    second: bloodexplosion-ezgif.com-optipng_7
+  - first:
+      213: -1517098269496109705
+    second: bloodexplosion-ezgif.com-optipng_8
+  - first:
+      213: -5815595955316927626
+    second: bloodexplosion-ezgif.com-optipng_9
+  - first:
+      213: -5950348392468499044
+    second: bloodexplosion-ezgif.com-optipng_10
+  - first:
+      213: -2817627470632736091
+    second: bloodexplosion-ezgif.com-optipng_11
+  - first:
+      213: 6660324798424191601
+    second: bloodexplosion-ezgif.com-optipng_12
+  - first:
+      213: 2952637547351686073
+    second: bloodexplosion-ezgif.com-optipng_13
+  - first:
+      213: -2216222188418824913
+    second: bloodexplosion-ezgif.com-optipng_14
+  - first:
+      213: -1959301300788851639
+    second: bloodexplosion-ezgif.com-optipng_15
+  - first:
+      213: 6017310290237501030
+    second: bloodexplosion-ezgif.com-optipng_16
+  - first:
+      213: 3903809353771073690
+    second: bloodexplosion-ezgif.com-optipng_17
+  - first:
+      213: -3107124640170363721
+    second: bloodexplosion-ezgif.com-optipng_18
+  - first:
+      213: -200112486286829538
+    second: bloodexplosion-ezgif.com-optipng_19
+  - first:
+      213: 5312117874525395794
+    second: bloodexplosion-ezgif.com-optipng_20
+  - first:
+      213: 6123047826868513176
+    second: bloodexplosion-ezgif.com-optipng_21
+  - first:
+      213: 5921585421422913582
+    second: bloodexplosion-ezgif.com-optipng_22
+  - first:
+      213: 2842679014167994224
+    second: bloodexplosion-ezgif.com-optipng_23
+  - first:
+      213: 7914238277435805038
+    second: bloodexplosion-ezgif.com-optipng_24
+  - first:
+      213: 1768156342929433245
+    second: bloodexplosion-ezgif.com-optipng_25
+  - first:
+      213: -4020822777888563245
+    second: bloodexplosion-ezgif.com-optipng_26
+  - first:
+      213: 8965719797670405705
+    second: bloodexplosion-ezgif.com-optipng_27
+  - first:
+      213: -1432360212985996922
+    second: bloodexplosion-ezgif.com-optipng_28
+  - first:
+      213: 4469071538527470187
+    second: bloodexplosion-ezgif.com-optipng_29
+  - first:
+      213: -55219640378349488
+    second: bloodexplosion-ezgif.com-optipng_30
+  - first:
+      213: -543151529844584849
+    second: bloodexplosion-ezgif.com-optipng_31
+  - first:
+      213: 6102136944173623192
+    second: bloodexplosion-ezgif.com-optipng_32
+  - first:
+      213: -6084722891184551812
+    second: bloodexplosion-ezgif.com-optipng_33
+  - first:
+      213: -9202638588757142946
+    second: bloodexplosion-ezgif.com-optipng_34
+  - first:
+      213: -7211299322354461718
+    second: bloodexplosion-ezgif.com-optipng_35
+  - first:
+      213: -8962503859475232091
+    second: bloodexplosion-ezgif.com-optipng_36
+  - first:
+      213: 1699026796406475893
+    second: bloodexplosion-ezgif.com-optipng_37
+  - first:
+      213: -5212446746653819166
+    second: bloodexplosion-ezgif.com-optipng_38
+  - first:
+      213: 8597946825366475676
+    second: bloodexplosion-ezgif.com-optipng_39
+  - first:
+      213: 2992435740921160908
+    second: bloodexplosion-ezgif.com-optipng_40
+  - first:
+      213: -3168408632618476100
+    second: bloodexplosion-ezgif.com-optipng_41
+  - first:
+      213: -4976506580825097011
+    second: bloodexplosion-ezgif.com-optipng_42
+  - first:
+      213: 3702606079070274385
+    second: bloodexplosion-ezgif.com-optipng_43
+  - first:
+      213: 6477247390640464867
+    second: bloodexplosion-ezgif.com-optipng_44
+  - first:
+      213: 4366790182015927903
+    second: bloodexplosion-ezgif.com-optipng_45
+  - first:
+      213: -7958011623680681512
+    second: bloodexplosion-ezgif.com-optipng_46
+  - first:
+      213: -1210153175436018503
+    second: bloodexplosion-ezgif.com-optipng_47
+  - first:
+      213: 3595891344756904367
+    second: bloodexplosion-ezgif.com-optipng_48
+  - first:
+      213: 5901003150641911279
+    second: bloodexplosion-ezgif.com-optipng_49
+  - first:
+      213: 6720460584706362764
+    second: bloodexplosion-ezgif.com-optipng_50
+  - first:
+      213: 3558865197532613759
+    second: bloodexplosion-ezgif.com-optipng_51
+  - first:
+      213: -692643869881181618
+    second: bloodexplosion-ezgif.com-optipng_52
+  - first:
+      213: 2353506539340914377
+    second: bloodexplosion-ezgif.com-optipng_53
+  - first:
+      213: 939037907844594793
+    second: bloodexplosion-ezgif.com-optipng_54
+  - first:
+      213: 4692276058281252863
+    second: bloodexplosion-ezgif.com-optipng_55
+  - first:
+      213: 5828027193410222560
+    second: bloodexplosion-ezgif.com-optipng_56
+  - first:
+      213: -8058638540376814040
+    second: bloodexplosion-ezgif.com-optipng_57
+  - first:
+      213: -3509082116256521260
+    second: bloodexplosion-ezgif.com-optipng_58
+  - first:
+      213: 2141040101110686813
+    second: bloodexplosion-ezgif.com-optipng_59
+  - first:
+      213: -5235981479954748782
+    second: bloodexplosion-ezgif.com-optipng_60
+  - first:
+      213: 7163387265626290416
+    second: bloodexplosion-ezgif.com-optipng_61
+  - first:
+      213: 8985461014114753979
+    second: bloodexplosion-ezgif.com-optipng_62
+  - first:
+      213: 2614678388069642355
+    second: bloodexplosion-ezgif.com-optipng_63
+  - first:
+      213: 826809071837193469
+    second: bloodexplosion-ezgif.com-optipng_64
+  - first:
+      213: -7077193781460217829
+    second: bloodexplosion-ezgif.com-optipng_65
+  - first:
+      213: 7682251696715121967
+    second: bloodexplosion-ezgif.com-optipng_66
+  - first:
+      213: -406351824522517096
+    second: bloodexplosion-ezgif.com-optipng_67
+  - first:
+      213: 5210063257871410302
+    second: bloodexplosion-ezgif.com-optipng_68
+  - first:
+      213: 1584750434792536489
+    second: bloodexplosion-ezgif.com-optipng_69
+  - first:
+      213: 1105428659652663294
+    second: bloodexplosion-ezgif.com-optipng_70
+  - first:
+      213: -906625653153908228
+    second: bloodexplosion-ezgif.com-optipng_71
+  - first:
+      213: 3365319864263812944
+    second: bloodexplosion-ezgif.com-optipng_72
+  - first:
+      213: -1416887385540205304
+    second: bloodexplosion-ezgif.com-optipng_73
+  - first:
+      213: -2765795616950781778
+    second: bloodexplosion-ezgif.com-optipng_74
+  - first:
+      213: -1874873806011007905
+    second: bloodexplosion-ezgif.com-optipng_75
+  - first:
+      213: -3479099073878393528
+    second: bloodexplosion-ezgif.com-optipng_76
+  - first:
+      213: 8936248643153004811
+    second: bloodexplosion-ezgif.com-optipng_77
+  - first:
+      213: 1578165512379768519
+    second: bloodexplosion-ezgif.com-optipng_78
+  - first:
+      213: -2526868766651866268
+    second: bloodexplosion-ezgif.com-optipng_79
+  - first:
+      213: 1023818855841587998
+    second: bloodexplosion-ezgif.com-optipng_80
+  - first:
+      213: -4224739622495944493
+    second: bloodexplosion-ezgif.com-optipng_81
+  - first:
+      213: 6552695041306617898
+    second: bloodexplosion-ezgif.com-optipng_82
+  - first:
+      213: -294788804018215930
+    second: bloodexplosion-ezgif.com-optipng_83
+  - first:
+      213: 6713993580952454657
+    second: bloodexplosion-ezgif.com-optipng_84
+  - first:
+      213: -2263987008103209627
+    second: bloodexplosion-ezgif.com-optipng_85
+  - first:
+      213: -3929441461423224467
+    second: bloodexplosion-ezgif.com-optipng_86
+  - first:
+      213: 7285629259272231637
+    second: bloodexplosion-ezgif.com-optipng_87
+  - first:
+      213: 3543689199524641623
+    second: bloodexplosion-ezgif.com-optipng_88
+  - first:
+      213: 5770255684848818735
+    second: bloodexplosion-ezgif.com-optipng_89
+  - first:
+      213: 3718834634484134844
+    second: bloodexplosion-ezgif.com-optipng_90
+  - first:
+      213: 6443803202813230169
+    second: bloodexplosion-ezgif.com-optipng_91
+  - first:
+      213: -8552487359502944679
+    second: bloodexplosion-ezgif.com-optipng_92
+  - first:
+      213: 7309772227047054307
+    second: bloodexplosion-ezgif.com-optipng_93
+  - first:
+      213: 6718725217188698144
+    second: bloodexplosion-ezgif.com-optipng_94
+  - first:
+      213: -6371634377837533381
+    second: bloodexplosion-ezgif.com-optipng_95
+  - first:
+      213: 3301844324897239401
+    second: bloodexplosion-ezgif.com-optipng_96
+  - first:
+      213: 2978867608038666805
+    second: bloodexplosion-ezgif.com-optipng_97
+  - first:
+      213: 5925518633934826791
+    second: bloodexplosion-ezgif.com-optipng_98
+  - first:
+      213: 6903211909981804355
+    second: bloodexplosion-ezgif.com-optipng_99
+  - first:
+      213: 3199818237844808655
+    second: bloodexplosion-ezgif.com-optipng_100
+  - first:
+      213: -2366323305196243111
+    second: bloodexplosion-ezgif.com-optipng_101
+  - first:
+      213: 6695520000014903308
+    second: bloodexplosion-ezgif.com-optipng_102
+  - first:
+      213: 9127752981391234727
+    second: bloodexplosion-ezgif.com-optipng_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5e59f519e078d20800000000000000
+      internalID: 3280606871099401650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f3103b8f1311bd0800000000000000
+      internalID: -2661290960574398591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7a8cacd41f4810800000000000000
+      internalID: 1751641718090529818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309af58169b17510800000000000000
+      internalID: 1545219975675547711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2fb7830a3b31ae0800000000000000
+      internalID: -1579721543553125647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83dda393b786ec0800000000000000
+      internalID: -3573470818587559739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f13cb2e8c3d47820800000000000000
+      internalID: 2915187718566457848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5661542a2b5240070800000000000000
+      internalID: 8071617881311614565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775135d692f22fae0800000000000000
+      internalID: -1517098269496109705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d22e7a4ada4fa0800000000000000
+      internalID: -5815595955316927626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c953911d9ad1c6da0800000000000000
+      internalID: -5950348392468499044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaad8f6eb6c5e8d0800000000000000
+      internalID: -2817627470632736091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729cc2cd1a3e6c50800000000000000
+      internalID: 6660324798424191601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb060a430e9f820800000000000000
+      internalID: 2952637547351686073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2505f369a56e31e0800000000000000
+      internalID: -2216222188418824913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_15
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c058609d92fc4e0800000000000000
+      internalID: -1959301300788851639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ea8e0f3d7c18350800000000000000
+      internalID: 6017310290237501030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a904f5a8ced1d2630800000000000000
+      internalID: 3903809353771073690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b438cd1a9641e4d0800000000000000
+      internalID: -3107124640170363721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d0c301ce093df0800000000000000
+      internalID: -200112486286829538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd614ef0f68b940800000000000000
+      internalID: 5312117874525395794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899a937ae8f69f450800000000000000
+      internalID: 6123047826868513176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodexplosion-ezgif.com-optipng_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e286b0f1192bd2250800000000000000
+      internalID: 5921585421422913582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c43cfe023bcc2447db94a08daa31b8ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bloodexplosion-ezgif.com-optipng_0: 3280606871099401650
+      bloodexplosion-ezgif.com-optipng_1: -2661290960574398591
+      bloodexplosion-ezgif.com-optipng_10: -5950348392468499044
+      bloodexplosion-ezgif.com-optipng_11: -2817627470632736091
+      bloodexplosion-ezgif.com-optipng_12: 6660324798424191601
+      bloodexplosion-ezgif.com-optipng_13: 2952637547351686073
+      bloodexplosion-ezgif.com-optipng_14: -2216222188418824913
+      bloodexplosion-ezgif.com-optipng_15: -1959301300788851639
+      bloodexplosion-ezgif.com-optipng_16: 6017310290237501030
+      bloodexplosion-ezgif.com-optipng_17: 3903809353771073690
+      bloodexplosion-ezgif.com-optipng_18: -3107124640170363721
+      bloodexplosion-ezgif.com-optipng_19: -200112486286829538
+      bloodexplosion-ezgif.com-optipng_2: 1751641718090529818
+      bloodexplosion-ezgif.com-optipng_20: 5312117874525395794
+      bloodexplosion-ezgif.com-optipng_21: 6123047826868513176
+      bloodexplosion-ezgif.com-optipng_22: 5921585421422913582
+      bloodexplosion-ezgif.com-optipng_3: 1545219975675547711
+      bloodexplosion-ezgif.com-optipng_4: -1579721543553125647
+      bloodexplosion-ezgif.com-optipng_5: -3573470818587559739
+      bloodexplosion-ezgif.com-optipng_6: 2915187718566457848
+      bloodexplosion-ezgif.com-optipng_7: 8071617881311614565
+      bloodexplosion-ezgif.com-optipng_8: -1517098269496109705
+      bloodexplosion-ezgif.com-optipng_9: -5815595955316927626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
