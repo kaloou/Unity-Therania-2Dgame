@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 public class LoadSpecificScene : MonoBehaviour
 {
     public string sceneName;
-    public Animator fadeSystem;
+    private Animator fadeSystem;
     private void Awake()
     {
         fadeSystem = GameObject.FindGameObjectWithTag("FadeSystem").GetComponent<Animator>();
@@ -18,6 +18,7 @@ public class LoadSpecificScene : MonoBehaviour
     }
     public IEnumerator loadNextScene()
     {
+        LoadAndSaveData.instance.SaveData();
         fadeSystem.SetTrigger("fadein");
         yield return new WaitForSeconds(1f);
         SceneManager.LoadScene(sceneName);

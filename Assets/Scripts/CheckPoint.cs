@@ -7,18 +7,13 @@ public class CheckPoint : MonoBehaviour
     public float moveDistance = 1f; // Distance du déplacement sur Y
     public float moveDuration = 0.5f; // Durée du déplacement
 
-    private Transform playerSpawn;
 
-    private void Awake()
-    {
-        playerSpawn = GameObject.FindGameObjectWithTag("playerSpawn").transform;
-    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
         {
-            playerSpawn.position = transform.position;
+            CurrentSceneManager.instance.respawnPoint = transform.position;
             StartCoroutine(MoveGraphic()); // Lance l'animation de montée
             gameObject.GetComponent<BoxCollider2D>().enabled = false; // Désactive le trigger après activation
         }
