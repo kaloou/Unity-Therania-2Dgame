@@ -20,5 +20,12 @@ public class LoadAndSaveData : MonoBehaviour
     public void SaveData()
     {
         PlayerPrefs.SetInt("coinsCount", Inventory.instance.coinsCount);
+
+        if(CurrentSceneManager.instance.levelToUnlock > PlayerPrefs.GetInt("levelReached", 1))
+        {
+            PlayerPrefs.SetInt("levelReached", CurrentSceneManager.instance.levelToUnlock);
+            //Debug.Log("passed1");
+        }
+        //Debug.Log("passed2");
     }
 }
