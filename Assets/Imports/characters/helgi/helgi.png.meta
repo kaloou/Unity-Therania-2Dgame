@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a976fa4b40acb48cca3849e5057f9c6e
+guid: 62f2bad21ca874dc3b7ed14d033573ff
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -331,7 +331,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -345,7 +345,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -369,7 +369,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -394,103 +394,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: helgi_0
-      rect:
-        serializedVersion: 2
-        x: 12
-        y: 630
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ee92b9d5733fae60800000000000000
-      internalID: 7975650046352989924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_1
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 630
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58a01e656fa91bf40800000000000000
-      internalID: 5742541382684314245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_2
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 630
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43742e3e55d2bde70800000000000000
-      internalID: 9140949715597281076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_3
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 630
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b068c9c8b2624cc0800000000000000
-      internalID: -3728308995710492494
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: helgi_4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 571
-        width: 36
-        height: 47
+        x: 18
+        y: 572
+        width: 34
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -507,12 +419,12 @@ TextureImporter:
       name: helgi_5
       rect:
         serializedVersion: 2
-        x: 82
-        y: 571
-        width: 36
-        height: 46
+        x: 83
+        y: 572
+        width: 34
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -526,103 +438,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: helgi_6
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 547
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd367997bb6c7ac10800000000000000
-      internalID: 2064837462673810396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_7
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 547
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dffdafadcab385a0800000000000000
-      internalID: -6520162442923868203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_8
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 547
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e67c30a05d1085e40800000000000000
-      internalID: 5645264147416598382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_9
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 547
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b736f00054556bcf0800000000000000
-      internalID: -236908175548259461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: helgi_10
       rect:
         serializedVersion: 2
-        x: 19
-        y: 490
-        width: 36
-        height: 48
+        x: 20
+        y: 491
+        width: 34
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -639,12 +463,12 @@ TextureImporter:
       name: helgi_11
       rect:
         serializedVersion: 2
-        x: 83
-        y: 490
-        width: 36
-        height: 48
+        x: 84
+        y: 491
+        width: 34
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -661,12 +485,12 @@ TextureImporter:
       name: helgi_12
       rect:
         serializedVersion: 2
-        x: 147
-        y: 490
-        width: 36
-        height: 47
+        x: 148
+        y: 491
+        width: 34
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -683,12 +507,12 @@ TextureImporter:
       name: helgi_13
       rect:
         serializedVersion: 2
-        x: 213
-        y: 489
-        width: 36
-        height: 48
+        x: 214
+        y: 490
+        width: 34
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -705,12 +529,12 @@ TextureImporter:
       name: helgi_14
       rect:
         serializedVersion: 2
-        x: 277
-        y: 489
-        width: 36
-        height: 48
+        x: 278
+        y: 490
+        width: 34
+        height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -724,345 +548,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: helgi_15
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7c6955d7967db1f0800000000000000
-      internalID: -1027534745479058310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_16
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e5d8eb2d63895de0800000000000000
-      internalID: -1343898508882029079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_17
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79a72754503cfc490800000000000000
-      internalID: -7723740408509728105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_18
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f67a3150bc142f970800000000000000
-      internalID: 8787158163172599663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_19
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 353747b671df0d710800000000000000
-      internalID: 1716149735057027923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_20
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4bdbfb7cf7a0e62c0800000000000000
-      internalID: -4436597038985003596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_21
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e697c5a8b9c57b20800000000000000
-      internalID: 3131630910798534373
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_22
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec3f8844bff63d7b0800000000000000
-      internalID: -5200690019705490482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_23
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44f9c7624ebea9370800000000000000
-      internalID: 8330229825905925956
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_24
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7135d7f2936da7190800000000000000
-      internalID: -7963817449953078505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_25
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a109ac32bb3722980800000000000000
-      internalID: -8565156293708705766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_26
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c7524f091fee0370800000000000000
-      internalID: 8290826854944888775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_27
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16620cc4bcadc4f10800000000000000
-      internalID: 2255418080106653281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_28
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5942bf35aa28a7b40800000000000000
-      internalID: 5438803168068314261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_29
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 468
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad549c4721cdb1c90800000000000000
-      internalID: -7197917607594736166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: helgi_30
       rect:
         serializedVersion: 2
-        x: 18
-        y: 411
-        width: 36
-        height: 47
+        x: 19
+        y: 412
+        width: 34
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1079,12 +573,12 @@ TextureImporter:
       name: helgi_31
       rect:
         serializedVersion: 2
-        x: 81
-        y: 410
-        width: 36
-        height: 47
+        x: 82
+        y: 411
+        width: 34
+        height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1098,411 +592,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: helgi_32
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 385
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e872835deb90ad330800000000000000
-      internalID: 3736309556082911118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_33
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 385
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e7c8d0a6aefb38c0800000000000000
-      internalID: -4018338250881447961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_34
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 385
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9db4687fd4ee1e1d0800000000000000
-      internalID: -3323113031390049319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_35
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 385
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17791dabf737bd290800000000000000
-      internalID: -7864565331840100495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_36
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d74213b4303e72b90800000000000000
-      internalID: -7266589870453087107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_37
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13d1307bdf3c2dea0800000000000000
-      internalID: -5849397471536276175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_38
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3bf929369d61f0c0800000000000000
-      internalID: -4543730057068545217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_39
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df2fe539e8cef3130800000000000000
-      internalID: 3548815128493224701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_40
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f2995c6c15bc4670800000000000000
-      internalID: 8524387328387027698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_41
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9553629998581ea0800000000000000
-      internalID: -5901869895059810913
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_42
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09b225fb88d40b6d0800000000000000
-      internalID: -2976794103971173488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_43
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a8aa947ea09cfa60800000000000000
-      internalID: 7709195741106448548
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_44
-      rect:
-        serializedVersion: 2
-        x: 137
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 748505bb816c066c0800000000000000
-      internalID: -4152101046911477689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_45
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 323d54e6e379072c0800000000000000
-      internalID: -4435879338566102237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_46
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ab2b23aff91cefb0800000000000000
-      internalID: -4617286932216730711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_47
-      rect:
-        serializedVersion: 2
-        x: 155
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5c0e764ede6254f0800000000000000
-      internalID: -841488279420400549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_48
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2eee857469c8f6c0800000000000000
-      internalID: -4109313226669363668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_49
-      rect:
-        serializedVersion: 2
-        x: 167
-        y: 384
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3627610871e9d410800000000000000
-      internalID: 1502479856240633406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: helgi_50
       rect:
         serializedVersion: 2
-        x: 19
-        y: 319
-        width: 39
-        height: 50
+        x: 20
+        y: 320
+        width: 37
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1519,12 +617,12 @@ TextureImporter:
       name: helgi_51
       rect:
         serializedVersion: 2
-        x: 83
-        y: 319
-        width: 30
-        height: 50
+        x: 84
+        y: 320
+        width: 28
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1538,323 +636,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: helgi_52
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 118dc70a57a531bd0800000000000000
-      internalID: -2660683493595621359
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_53
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06228a9e3c2c2f240800000000000000
-      internalID: 4824132297561743968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_54
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63e654a8037d608e0800000000000000
-      internalID: -1727456803571798474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_55
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 12dc3c5b1f82abc60800000000000000
-      internalID: 7834619520366136609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_56
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cedf73a46883be770800000000000000
-      internalID: 8641062459462385132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_57
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8855386babef8740800000000000000
-      internalID: 5156599219782768780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_58
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be2a86a4c52766e80800000000000000
-      internalID: -8185729531988368661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_59
-      rect:
-        serializedVersion: 2
-        x: 63
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd223720c1e98e940800000000000000
-      internalID: 5325680402502984413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_60
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a021ed19a45559400800000000000000
-      internalID: 330263926444790282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_61
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51b627aa885ab21b0800000000000000
-      internalID: -5680264498603988203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_62
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77f57a626b641f2a0800000000000000
-      internalID: -6705500622031462537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_63
-      rect:
-        serializedVersion: 2
-        x: 93
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ef3709e52d548ce0800000000000000
-      internalID: -1403894766428012573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_64
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0d8ffe780c4536f0800000000000000
-      internalID: -705574167239488246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_65
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 291
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c99d29f022aedf80800000000000000
-      internalID: -8079842418952922680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: helgi_66
       rect:
         serializedVersion: 2
-        x: 29
-        y: 211
-        width: 30
-        height: 53
+        x: 30
+        y: 212
+        width: 28
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1871,12 +661,12 @@ TextureImporter:
       name: helgi_67
       rect:
         serializedVersion: 2
-        x: 76
-        y: 212
-        width: 53
-        height: 61
+        x: 77
+        y: 213
+        width: 51
+        height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1893,12 +683,12 @@ TextureImporter:
       name: helgi_68
       rect:
         serializedVersion: 2
-        x: 150
-        y: 214
-        width: 52
-        height: 45
+        x: 151
+        y: 215
+        width: 50
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1915,12 +705,12 @@ TextureImporter:
       name: helgi_69
       rect:
         serializedVersion: 2
-        x: 222
-        y: 212
-        width: 36
-        height: 46
+        x: 223
+        y: 213
+        width: 34
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1937,12 +727,12 @@ TextureImporter:
       name: helgi_70
       rect:
         serializedVersion: 2
-        x: 273
-        y: 215
-        width: 46
-        height: 43
+        x: 274
+        y: 216
+        width: 44
+        height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1956,301 +746,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: helgi_71
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0dedd767836844f90800000000000000
-      internalID: -6970298746198434096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_72
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f4ab673708d15550800000000000000
-      internalID: 6147932491843609847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_73
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c67fa2ebd29b32450800000000000000
-      internalID: 6062893129485973356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_74
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07b738f0296d09270800000000000000
-      internalID: 8255334039783963504
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_75
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed9fb2c82cd6f60c0800000000000000
-      internalID: -4580321613669729826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_76
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 508d8864be63d2fd0800000000000000
-      internalID: -2365173845171054587
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_77
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c81ba3fcd0511f740800000000000000
-      internalID: 5183947795135639948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_78
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60fc317b6e39dd500800000000000000
-      internalID: 422656559165984518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_79
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 420fa8af7ee3b6dc0800000000000000
-      internalID: -3644750307364507612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_80
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a758aee625bbfee40800000000000000
-      internalID: 5687970817114801530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_81
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 455862a7a50271da0800000000000000
-      internalID: -5974270807715183276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_82
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eabc097b3d4308740800000000000000
-      internalID: 5152176057634311086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_83
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 186
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d647fb2d2061344c0800000000000000
-      internalID: -4304572617454554003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: helgi_84
       rect:
         serializedVersion: 2
-        x: 15
-        y: 114
-        width: 44
-        height: 51
+        x: 16
+        y: 115
+        width: 42
+        height: 49
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2267,12 +771,12 @@ TextureImporter:
       name: helgi_85
       rect:
         serializedVersion: 2
-        x: 84
-        y: 113
-        width: 53
-        height: 64
+        x: 85
+        y: 114
+        width: 51
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2289,12 +793,12 @@ TextureImporter:
       name: helgi_86
       rect:
         serializedVersion: 2
-        x: 170
-        y: 113
-        width: 46
-        height: 50
+        x: 171
+        y: 114
+        width: 44
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2311,12 +815,12 @@ TextureImporter:
       name: helgi_87
       rect:
         serializedVersion: 2
-        x: 247
-        y: 113
-        width: 30
-        height: 49
+        x: 248
+        y: 114
+        width: 28
+        height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2333,12 +837,12 @@ TextureImporter:
       name: helgi_88
       rect:
         serializedVersion: 2
-        x: 291
-        y: 112
-        width: 46
-        height: 46
+        x: 292
+        y: 113
+        width: 44
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2352,169 +856,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: helgi_89
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 74
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a25b08495d3a3d00800000000000000
-      internalID: 953141724812366498
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_90
-      rect:
-        serializedVersion: 2
-        x: 28
-        y: 74
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8f08b82721096c50800000000000000
-      internalID: 6658854791742492558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_91
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 74
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d12fb2b2a5a021db0800000000000000
-      internalID: -4822780868572745187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_92
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 74
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9901b3222db80b10800000000000000
-      internalID: 1948014793163082140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_93
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 74
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cedaacba42693f920800000000000000
-      internalID: 3022924859140910572
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_94
-      rect:
-        serializedVersion: 2
-        x: 52
-        y: 74
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d77c535f417f31d10800000000000000
-      internalID: 2095289921042761597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: helgi_95
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 74
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a425ad8bff811e920800000000000000
-      internalID: 3017720711911985738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: helgi_96
       rect:
         serializedVersion: 2
-        x: 21
-        y: 18
-        width: 36
-        height: 46
+        x: 22
+        y: 19
+        width: 34
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2531,12 +881,12 @@ TextureImporter:
       name: helgi_97
       rect:
         serializedVersion: 2
-        x: 91
-        y: 18
-        width: 30
-        height: 53
+        x: 92
+        y: 19
+        width: 28
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2553,12 +903,12 @@ TextureImporter:
       name: helgi_98
       rect:
         serializedVersion: 2
-        x: 156
-        y: 18
-        width: 29
-        height: 55
+        x: 157
+        y: 19
+        width: 27
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2575,7 +925,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bb9318c6ce8de472e82b72da5f5b2248
     internalID: 0
     vertices: []
     indices: 
