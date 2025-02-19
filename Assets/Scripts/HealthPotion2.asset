@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a8e46d1e7564616823ba3837b27077, type: 3}
+  m_Name: HealthPotion2
+  m_EditorClassIdentifier: 
+  id: 1
+  name: Heal Pot
+  description: A potion that regen 25hp
+  image: {fileID: -4156976322373235980, guid: 76001279c41c1462eb0e12d12d828db8, type: 3}
+  hpGiven: 25
+  speedGiven: 0
+  speedDuration: 0
