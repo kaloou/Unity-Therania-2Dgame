@@ -46,3 +46,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   coinsCount: 0
   coinsCountText: {fileID: 0}
+  content:
+  - {fileID: 11400000, guid: cb28e4e305ab34f7b8b01fb51e78041d, type: 2}
+  - {fileID: 11400000, guid: 064de4a7d3d9d47c0be70b1a3c0f38cb, type: 2}
+  itemImageUI: {fileID: 0}
+  itemNameUI: {fileID: 0}
+  emptyItemImage: {fileID: 5412526570508088131, guid: 557233b267f0c4142881f3b19148582f, type: 3}
+  playerEffects: {fileID: 0}
