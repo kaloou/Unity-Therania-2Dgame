@@ -15,6 +15,7 @@ MonoBehaviour:
   id: 1
   name: Heal Pot
   description: A potion that regen 50hp
+  price: 10
   image: {fileID: 2606350603775345364, guid: 76001279c41c1462eb0e12d12d828db8, type: 3}
   hpGiven: 50
   speedGiven: 0

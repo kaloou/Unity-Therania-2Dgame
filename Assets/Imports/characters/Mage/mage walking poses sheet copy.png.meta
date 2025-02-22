@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 4e4ceaf7a8d9d491eb78ef05243adbb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3990703832019948021
+    second: mage walking poses sheet copy_0
+  - first:
+      213: 726108586654045940
+    second: mage walking poses sheet copy_1
+  - first:
+      213: 478576015738024409
+    second: mage walking poses sheet copy_2
+  - first:
+      213: 513308701644201247
+    second: mage walking poses sheet copy_3
+  - first:
+      213: 4550309622432442006
+    second: mage walking poses sheet copy_4
+  - first:
+      213: -1702309844646636712
+    second: mage walking poses sheet copy_5
+  - first:
+      213: -4428486707479029607
+    second: mage walking poses sheet copy_6
+  - first:
+      213: -5279036468513055339
+    second: mage walking poses sheet copy_7
+  - first:
+      213: 4638651364113934716
+    second: mage walking poses sheet copy_8
+  - first:
+      213: 6219767712901260698
+    second: mage walking poses sheet copy_9
+  - first:
+      213: 9078229770645144009
+    second: mage walking poses sheet copy_10
+  - first:
+      213: 5140850450150700452
+    second: mage walking poses sheet copy_11
+  - first:
+      213: -381063057288388562
+    second: mage walking poses sheet copy_12
+  - first:
+      213: -5284725089318144056
+    second: mage walking poses sheet copy_13
+  - first:
+      213: -3218017745555798900
+    second: mage walking poses sheet copy_14
+  - first:
+      213: -8395278135194070868
+    second: mage walking poses sheet copy_15
+  - first:
+      213: 3213150177267771912
+    second: mage walking poses sheet copy_16
+  - first:
+      213: 4686880324241925571
+    second: mage walking poses sheet copy_17
+  - first:
+      213: -4816950969759897254
+    second: mage walking poses sheet copy_18
+  - first:
+      213: -6934745105483560718
+    second: mage walking poses sheet copy_19
+  - first:
+      213: -4935210540887428415
+    second: mage walking poses sheet copy_20
+  - first:
+      213: 6331782559436771140
+    second: mage walking poses sheet copy_21
+  - first:
+      213: -9037897087874461495
+    second: mage walking poses sheet copy_22
+  - first:
+      213: -6406457840241022470
+    second: mage walking poses sheet copy_23
+  - first:
+      213: -1629034582147986445
+    second: mage walking poses sheet copy_24
+  - first:
+      213: -7123425494985688170
+    second: mage walking poses sheet copy_25
+  - first:
+      213: 34877395604710721
+    second: mage walking poses sheet copy_26
+  - first:
+      213: 8666653282804466540
+    second: mage walking poses sheet copy_27
+  - first:
+      213: -4317127685479685158
+    second: mage walking poses sheet copy_28
+  - first:
+      213: 1249561998675777728
+    second: mage walking poses sheet copy_29
+  - first:
+      213: -2504090893278022509
+    second: mage walking poses sheet copy_30
+  - first:
+      213: -8436806607358402599
+    second: mage walking poses sheet copy_31
+  - first:
+      213: -7632094928406737368
+    second: mage walking poses sheet copy_32
+  - first:
+      213: 8826048974823492149
+    second: mage walking poses sheet copy_33
+  - first:
+      213: 7900624473375460423
+    second: mage walking poses sheet copy_34
+  - first:
+      213: -5293530854614347249
+    second: mage walking poses sheet copy_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e29a8220c2e98c0800000000000000
+      internalID: -3990703832019948021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f610e799e7a31a00800000000000000
+      internalID: 726108586654045940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13618c95e34a600800000000000000
+      internalID: 478576015738024409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d9e956b83af1700800000000000000
+      internalID: 513308701644201247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 192
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a0273e72f52f30800000000000000
+      internalID: 4550309622432442006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 194
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853df2c273e2068e0800000000000000
+      internalID: -1702309844646636712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 193
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9985c2c7dcada82c0800000000000000
+      internalID: -4428486707479029607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d52f92d481db6b0800000000000000
+      internalID: -5279036468513055339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 192
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7964eac6dccf5040800000000000000
+      internalID: 4638651364113934716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a956ce8f7cd015650800000000000000
+      internalID: 6219767712901260698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c10eacb0e95cfd70800000000000000
+      internalID: 9078229770645144009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5b3ac3f38f75740800000000000000
+      internalID: 5140850450150700452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 130
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e202d491b2136baf0800000000000000
+      internalID: -381063057288388562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 129
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7f89be782e8a6b0800000000000000
+      internalID: -5284725089318144056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 129
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c844e3309ed4753d0800000000000000
+      internalID: -3218017745555798900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 129
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05721240bfd7b80800000000000000
+      internalID: -8395278135194070868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 129
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a670eef07679c20800000000000000
+      internalID: 3213150177267771912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_17
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5253f92d42b0140800000000000000
+      internalID: 4686880324241925571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59ecf24d90c62db0800000000000000
+      internalID: -4816950969759897254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f806c38116d2cf90800000000000000
+      internalID: -6934745105483560718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c234a2392c928bb0800000000000000
+      internalID: -4935210540887428415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f0e3ac0b20fd750800000000000000
+      internalID: 6331782559436771140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c094b0cb70f29280800000000000000
+      internalID: -9037897087874461495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 65
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9eae38980b717a0800000000000000
+      internalID: -6406457840241022470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb0e34bda18469e0800000000000000
+      internalID: -1629034582147986445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 64
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bba6bf042842d90800000000000000
+      internalID: -7123425494985688170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 64
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145a5b77ec8eb7000800000000000000
+      internalID: 34877395604710721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 568
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6388092e33264870800000000000000
+      internalID: 8666653282804466540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3aaf04e3b7614c0800000000000000
+      internalID: -4317127685479685158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c895ef6406575110800000000000000
+      internalID: 1249561998675777728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3947fdc899eaf3dd0800000000000000
+      internalID: -2504090893278022509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfdbb937117aea80800000000000000
+      internalID: -8436806607358402599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e8144691a551690800000000000000
+      internalID: -7632094928406737368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a0e8ab7cc6c7a70800000000000000
+      internalID: 8826048974823492149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c4d476918a4ad60800000000000000
+      internalID: 7900624473375460423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage walking poses sheet copy_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02542bebb99986b0800000000000000
+      internalID: -5293530854614347249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

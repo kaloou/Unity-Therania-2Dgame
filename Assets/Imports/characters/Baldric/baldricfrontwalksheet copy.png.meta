@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: f4f5e2095f8004d9489c5adf9f86a905
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2052431726481276142
+    second: baldricfrontwalksheet copy_0
+  - first:
+      213: -3090692638585549993
+    second: baldricfrontwalksheet copy_1
+  - first:
+      213: -2748129189736969666
+    second: baldricfrontwalksheet copy_2
+  - first:
+      213: -1499130596144497163
+    second: baldricfrontwalksheet copy_3
+  - first:
+      213: 2159413236354789827
+    second: baldricfrontwalksheet copy_4
+  - first:
+      213: 4169945140939308764
+    second: baldricfrontwalksheet copy_5
+  - first:
+      213: -8961355863282979403
+    second: baldricfrontwalksheet copy_6
+  - first:
+      213: -7163215637310565132
+    second: baldricfrontwalksheet copy_7
+  - first:
+      213: -661963077263761035
+    second: baldricfrontwalksheet copy_8
+  - first:
+      213: 3330421246626613734
+    second: baldricfrontwalksheet copy_9
+  - first:
+      213: 946719141549838623
+    second: baldricfrontwalksheet copy_10
+  - first:
+      213: 4832551021343312934
+    second: baldricfrontwalksheet copy_11
+  - first:
+      213: 3808045535579588690
+    second: baldricfrontwalksheet copy_12
+  - first:
+      213: 1862063397081042514
+    second: baldricfrontwalksheet copy_13
+  - first:
+      213: 1405649437160449272
+    second: baldricfrontwalksheet copy_14
+  - first:
+      213: 6940801900377978970
+    second: baldricfrontwalksheet copy_15
+  - first:
+      213: 4851254636803412192
+    second: baldricfrontwalksheet copy_16
+  - first:
+      213: -4021261642883145848
+    second: baldricfrontwalksheet copy_17
+  - first:
+      213: 4197864560447741061
+    second: baldricfrontwalksheet copy_18
+  - first:
+      213: -7985851070333483904
+    second: baldricfrontwalksheet copy_19
+  - first:
+      213: 7336897245104598810
+    second: baldricfrontwalksheet copy_20
+  - first:
+      213: 7130663292845236979
+    second: baldricfrontwalksheet copy_21
+  - first:
+      213: 5050045580902342887
+    second: baldricfrontwalksheet copy_22
+  - first:
+      213: 5179954182140195336
+    second: baldricfrontwalksheet copy_23
+  - first:
+      213: -7315604807881736482
+    second: baldricfrontwalksheet copy_24
+  - first:
+      213: -4152894151342043641
+    second: baldricfrontwalksheet copy_25
+  - first:
+      213: 741959240412995591
+    second: baldricfrontwalksheet copy_26
+  - first:
+      213: 5367673639504692056
+    second: baldricfrontwalksheet copy_27
+  - first:
+      213: -8361194711098568817
+    second: baldricfrontwalksheet copy_28
+  - first:
+      213: 5524116885467534763
+    second: baldricfrontwalksheet copy_29
+  - first:
+      213: 6498032292341435702
+    second: baldricfrontwalksheet copy_30
+  - first:
+      213: -262564405591897350
+    second: baldricfrontwalksheet copy_31
+  - first:
+      213: -270210287800301078
+    second: baldricfrontwalksheet copy_32
+  - first:
+      213: -8538513463781205432
+    second: baldricfrontwalksheet copy_33
+  - first:
+      213: 2065367245653089928
+    second: baldricfrontwalksheet copy_34
+  - first:
+      213: -6251913712027637737
+    second: baldricfrontwalksheet copy_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2138751183c4483e0800000000000000
+      internalID: -2052431726481276142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b813f9b67ab15d0800000000000000
+      internalID: -3090692638585549993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a88d8ef0facd9d0800000000000000
+      internalID: -2748129189736969666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd33e06aa4023be0800000000000000
+      internalID: -1499130596144497163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1343cb5e6c7fd10800000000000000
+      internalID: 2159413236354789827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 194
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdebd8a230f9ed930800000000000000
+      internalID: 4169945140939308764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd6727525ed2a380800000000000000
+      internalID: -8961355863282979403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 192
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f494988455279c90800000000000000
+      internalID: -7163215637310565132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571e445a61c30d6f0800000000000000
+      internalID: -661963077263761035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9c79d7a78083e20800000000000000
+      internalID: 3330421246626613734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1114261b0c632d00800000000000000
+      internalID: 946719141549838623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 130
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c8e1acc8ba01340800000000000000
+      internalID: 4832551021343312934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 130
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258cbbc1d35e8d430800000000000000
+      internalID: 3808045535579588690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ec5444bc067d910800000000000000
+      internalID: 1862063397081042514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 129
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42da437bed18310800000000000000
+      internalID: 1405649437160449272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 129
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58b260fd8ea25060800000000000000
+      internalID: 6940801900377978970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 129
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e052ad936e135340800000000000000
+      internalID: 4851254636803412192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fdb0367db9138c0800000000000000
+      internalID: -4021261642883145848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c50b4939fc14a30800000000000000
+      internalID: 4197864560447741061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084899b23ce8c2190800000000000000
+      internalID: -7985851070333483904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f60000c25e1d560800000000000000
+      internalID: 7336897245104598810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f225f62c7435f260800000000000000
+      internalID: 7130663292845236979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0273513bd551640800000000000000
+      internalID: 5050045580902342887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802f34352e4e2e740800000000000000
+      internalID: 5179954182140195336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb11ddf20c97a90800000000000000
+      internalID: -7315604807881736482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ec577b5c4fd56c0800000000000000
+      internalID: -4152894151342043641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 63
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700a2a28ff7fb4a00800000000000000
+      internalID: 741959240412995591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c7e86cbecd7a40800000000000000
+      internalID: 5367673639504692056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f4813b5b117fb80800000000000000
+      internalID: -8361194711098568817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba597001a0b99ac40800000000000000
+      internalID: 5524116885467534763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d470c11f5ad2a50800000000000000
+      internalID: 6498032292341435702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa8802701f2b5cf0800000000000000
+      internalID: -262564405591897350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c105cc25004cf0800000000000000
+      internalID: -270210287800301078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a5e616e3b118980800000000000000
+      internalID: -8538513463781205432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e11ef2198a9ac10800000000000000
+      internalID: 2065367245653089928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricfrontwalksheet copy_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718e23c5a9dbc39a0800000000000000
+      internalID: -6251913712027637737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

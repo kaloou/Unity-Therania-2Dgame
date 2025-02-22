@@ -5,6 +5,7 @@ public class Item : ScriptableObject
     public int id;
     new public string name;
     public string description;
+    public int price;
     public Sprite image;
     public int hpGiven;
     public int speedGiven;

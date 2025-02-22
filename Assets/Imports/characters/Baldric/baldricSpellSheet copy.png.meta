@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 982569321645b4a378759477f609ae2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5324448208046180078
+    second: baldricSpellSheet copy_0
+  - first:
+      213: 1480171834565710874
+    second: baldricSpellSheet copy_1
+  - first:
+      213: -2349763624505240794
+    second: baldricSpellSheet copy_2
+  - first:
+      213: 1973486361504443438
+    second: baldricSpellSheet copy_3
+  - first:
+      213: 855504179168319952
+    second: baldricSpellSheet copy_4
+  - first:
+      213: -4320213570666600092
+    second: baldricSpellSheet copy_5
+  - first:
+      213: 870541606619486555
+    second: baldricSpellSheet copy_6
+  - first:
+      213: 8901922216081114470
+    second: baldricSpellSheet copy_7
+  - first:
+      213: 8402553920642643390
+    second: baldricSpellSheet copy_8
+  - first:
+      213: -7725385387534425235
+    second: baldricSpellSheet copy_9
+  - first:
+      213: 2911974116728504219
+    second: baldricSpellSheet copy_10
+  - first:
+      213: -3985568407268660411
+    second: baldricSpellSheet copy_11
+  - first:
+      213: 5975303669722030544
+    second: baldricSpellSheet copy_12
+  - first:
+      213: -4735261301591108005
+    second: baldricSpellSheet copy_13
+  - first:
+      213: 780210218300240597
+    second: baldricSpellSheet copy_14
+  - first:
+      213: 7400360685117302525
+    second: baldricSpellSheet copy_15
+  - first:
+      213: -1894663508097151468
+    second: baldricSpellSheet copy_16
+  - first:
+      213: 2049215295896815797
+    second: baldricSpellSheet copy_17
+  - first:
+      213: -2920116226151507933
+    second: baldricSpellSheet copy_18
+  - first:
+      213: 196641169028093700
+    second: baldricSpellSheet copy_19
+  - first:
+      213: -6854975468304946251
+    second: baldricSpellSheet copy_20
+  - first:
+      213: 5611529795366711010
+    second: baldricSpellSheet copy_21
+  - first:
+      213: 8852010053717851123
+    second: baldricSpellSheet copy_22
+  - first:
+      213: 2489664346891612344
+    second: baldricSpellSheet copy_23
+  - first:
+      213: -5211265749098012559
+    second: baldricSpellSheet copy_24
+  - first:
+      213: 7591379601256229442
+    second: baldricSpellSheet copy_25
+  - first:
+      213: -8987795311978620818
+    second: baldricSpellSheet copy_26
+  - first:
+      213: -4945409741562984118
+    second: baldricSpellSheet copy_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 193
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219317e9092cb16b0800000000000000
+      internalID: -5324448208046180078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 193
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14d3d5f070aa8410800000000000000
+      internalID: 1480171834565710874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 193
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6231b3fde66f36fd0800000000000000
+      internalID: -2349763624505240794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 193
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cec8ac36b336b10800000000000000
+      internalID: 1973486361504443438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 193
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9903fa48c5fdb00800000000000000
+      internalID: 855504179168319952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469689e95a48b04c0800000000000000
+      internalID: -4320213570666600092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 193
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5990c89af8c41c00800000000000000
+      internalID: 870541606619486555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6654ca3571bf98b70800000000000000
+      internalID: 8901922216081114470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb578fda54edb9470800000000000000
+      internalID: 8402553920642643390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 129
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63640fbbeae9c490800000000000000
+      internalID: -7725385387534425235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ffbb6e709696820800000000000000
+      internalID: 2911974116728504219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b6bb866aa60b8c0800000000000000
+      internalID: -3985568407268660411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 129
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1aed2770b8ce250800000000000000
+      internalID: 5975303669722030544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 129
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5612084fe8f84eb0800000000000000
+      internalID: -4735261301591108005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d27aef4f0dd3da00800000000000000
+      internalID: 780210218300240597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6ee2695dc53b660800000000000000
+      internalID: 7400360685117302525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e49f6e39dc4b5e0800000000000000
+      internalID: -1894663508097151468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 64
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b80a345476407c10800000000000000
+      internalID: 2049215295896815797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 64
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328926583c9a977d0800000000000000
+      internalID: -2920116226151507933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 64
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4071324f91c9ab200800000000000000
+      internalID: 196641169028093700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbaaab712c3ed0a0800000000000000
+      internalID: -6854975468304946251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6a532e9820ed40800000000000000
+      internalID: 5611529795366711010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbf9007e38a8da70800000000000000
+      internalID: 8852010053717851123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0fd6e58801d8220800000000000000
+      internalID: 2489664346891612344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1706ad2696ddda7b0800000000000000
+      internalID: -5211265749098012559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a2608c68ff95960800000000000000
+      internalID: 7591379601256229442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68d79b78cfe44380800000000000000
+      internalID: -8987795311978620818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baldricSpellSheet copy_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49c16dba006e5bb0800000000000000
+      internalID: -4945409741562984118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
