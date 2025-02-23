@@ -44,6 +44,12 @@ public class MovePlayer : MonoBehaviour
             animator.SetBool("isJumping", true);
         }
 
+        if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.A))
+        {   
+            animator.SetTrigger("attack");
+        }
+        
+
         // 🔹 Mise à jour des animations
         Flip(rb.linearVelocity.x);
         float characterVelocity = Mathf.Abs(rb.linearVelocity.x);

@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 791245602554352520}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.49, y: 1.63, z: 0}
+  m_LocalPosition: {x: 1.33, y: 1.81, z: 0}
   m_LocalScale: {x: 1.0864252, y: 1.0864252, z: 1.0864252}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -100,6 +100,7 @@ GameObject:
   - component: {fileID: 3215415871615500}
   - component: {fileID: 3208904775514282930}
   - component: {fileID: 1524026828360149929}
+  - component: {fileID: 6983712303480333382}
   m_Layer: 0
   m_Name: helgi
   m_TagString: Untagged
@@ -266,3 +267,16 @@ MonoBehaviour:
     - "Tu as surement perdu la m\xE9moire depuis la grande guerre, ne t'en fais pas
       je suis l\xE0 pour t'aider"
   objectToDisable: {fileID: 791245602554352520}
+--- !u!114 &6983712303480333382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1811914657605352315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65daff32355f84a5fa5b1cb54ed35a75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
