@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 5462558064757233572}
   - component: {fileID: 6346724990520977538}
   - component: {fileID: 8964180920774959912}
+  - component: {fileID: 8612926013301608093}
+  - component: {fileID: 3368757013943485154}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -89,3 +91,39 @@ MonoBehaviour:
   nameText: {fileID: 0}
   dialogueText: {fileID: 0}
   animator: {fileID: 0}
+--- !u!114 &8612926013301608093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3910168926575701521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38b37dcf2ab024f7ea7811bceedeef8c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pnjNameText: {fileID: 0}
+  animator: {fileID: 0}
+  sellButtonPrefab: {fileID: 7010743694915462356, guid: 315ca0cc9b9094c68be4a5cc8a37746b, type: 3}
+  sellButtonsParent: {fileID: 0}
+--- !u!114 &3368757013943485154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3910168926575701521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe091bf58ba945139885c4bf54f8ecd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allItems:
+  - {fileID: 11400000, guid: cb28e4e305ab34f7b8b01fb51e78041d, type: 2}
+  - {fileID: 11400000, guid: f9c28e102240a4a329adb927d0cb0137, type: 2}
+  - {fileID: 11400000, guid: 6627557da8e6c4943884b9bd928e0efb, type: 2}
+  - {fileID: 11400000, guid: b71e050d7df5c40bca255edbfdb8a458, type: 2}
+  - {fileID: 11400000, guid: e67d7481175b44fce8138cf519b92418, type: 2}
+  - {fileID: 11400000, guid: 064de4a7d3d9d47c0be70b1a3c0f38cb, type: 2}
+  - {fileID: 11400000, guid: ac9fb7e2709ab441b865eb842569c35d, type: 2}
