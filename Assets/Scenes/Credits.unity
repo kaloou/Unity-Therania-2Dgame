@@ -189,14 +189,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Deelopper : Lucas Paludetto\n\n\nVoici un texte court adapt\xE9 pour une
-    sc\xE8ne de cr\xE9dits dans Unity :  \n\nMerci d'avoir jou\xE9 \xE0 Therania
-    !  \nv\n\U0001F3AE D\xE9veloppement : Paludetto Lucas\n\U0001F3A8 Graphismes
-    : [Nom ou \"Assets Libres\"]  \n\U0001F3B5 Musique & Sons : [Nom ou \"Biblioth\xE8que
-    Audio\"]  \n\n\U0001F4C5 Ann\xE9e de sortie : 2025  \n\U0001F517 Suivez-nous
-    : [Lien ou R\xE9seaux Sociaux]  \n\n\u2728 \xC0 bient\xF4t pour de nouvelles
-    aventures ! \U0001F3AD\"  \n\nTu peux l'afficher dans une **Text UI** ou utiliser
-    un effet de d\xE9filement avec un `ScrollRect`. \U0001F60A"
+  m_Text: "Developper : Lucas Paludetto\n\n\nVoici un texte court adapt\xE9 pour
+    une sc\xE8ne de cr\xE9dits dans Unity :  \n\nMerci d'avoir jou\xE9 \xE0 Therania
+    !  \n\n\nsponsor: Talia et Romina\n\n\U0001F4C5 Ann\xE9e de sortie : 2025  \n\n\n\u2728
+    \xC0 bient\xF4t pour de nouvelles aventures ! \U0001F3AD\"  \n"
 --- !u!222 &39536779
 CanvasRenderer:
   m_ObjectHideFlags: 0
