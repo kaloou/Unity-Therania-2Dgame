@@ -8,6 +8,9 @@
 UserSettings/
 MemoryCaptures/
 
+# Autoriser uniquement le fichier .app dans Build/
+!Build/*.app
+
 # === macOS ===
 .DS_Store
 
@@ -49,4 +52,3 @@ Desktop.ini
 *.old
 .vscode/
 mono_crash*.json
-
